@@ -1,0 +1,3 @@
+./transform_dataset_xxx.py  
+transform the annotations in ./dataset/xxx/annotations/* to pkl and generate the corresponding images-list files.
+the images-list files should have head like rap2/images/xxx.png -1... 
